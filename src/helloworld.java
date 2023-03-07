@@ -6,5 +6,5 @@ public class helloworld {
 
 //创建一个没有public修饰的类
 class helloChina {
-    //内容
+    //内容测试
 }
